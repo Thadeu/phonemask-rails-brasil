@@ -3,6 +3,8 @@
 jQuery Plugin for mask phone number until 9 numbers.
 Only for brazil numbers.
 
+[![Gem Version](https://badge.fury.io/rb/phonemask-rails-brasil.svg)](https://badge.fury.io/rb/phonemask-rails-brasil)
+
 ## Dependecies
 
 Use in Ruby >= 1.9 and Ruby on Rails >= v4.X
