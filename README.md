@@ -12,7 +12,7 @@ Use in Ruby >= 1.9 and Ruby on Rails >= v4.X
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'phonemask-rails-brasil'
+gem 'phonemask-rails-brasil', '0.2.0'
 ```
 
 And then execute:
@@ -21,7 +21,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install phonemask-rails-brasil
+    $ gem install phonemask-rails-brasil -v '0.2.0'
 
 ## Usage
 

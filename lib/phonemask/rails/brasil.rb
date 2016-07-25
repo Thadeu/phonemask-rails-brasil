@@ -3,7 +3,7 @@ require "phonemask/rails/brasil/version"
 module Phonemask
   module Rails
     module Brasil
-      # Your code goes here...
+      class Engine < ::Rails::Engine; end
     end
   end
 end
